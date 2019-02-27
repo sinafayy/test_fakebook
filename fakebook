@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="author" content="Ana Mihojevic">
+    <title>SmartNinja FakebBook</title>
+</head>
+
+<body>
+<h1>Naslov stranice</h1>
+    <p>neki tekst unutar paragrafa</p>
+    <p> i imamo jos teksta</p>
+
+<div></div>
+</body>
+
+</html>

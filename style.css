@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+  text-align: center;
+  border-style: double;
+  border-radius: 5px;
+}
+h1 {
+  color: blue;
+  background-color: red;
+  border-style: dotted;
+}
+p {
+  color: red;
+}
+p.city {
+color: green;
+font-family: verdana;
+font-size: 14px;
+background-color: yellow;
+border-style: double;
+}
